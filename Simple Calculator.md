@@ -1,10 +1,10 @@
 # Simple Calculator
 Creating a simple calculator using Python loop function and the loop continues until a valid option is selected.\
 Python program to perform the following functions.\
- • Add: Adds two numbers\
- • Subtract: Subtracts two numbers\
- • Multiply: Multiply two numbers\
- • Divide: Divide two numbers\
+ • Add (+): Adds two numbers\
+ • Subtract(-): Subtracts two numbers\
+ • Multiply(*): Multiply two numbers\
+ • Divide(/): Divide two numbers\
  • Quit: Exits the program
  
  
