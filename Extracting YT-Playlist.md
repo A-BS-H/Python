@@ -27,7 +27,6 @@ Using playlist ID to get playlist details and required video statistics
 ```
 videos = [] 
 
-nextPageToken = None ;
 while True:
     pl_request = youtube.playlistItems().list(
         part='contentDetails',
@@ -74,10 +73,7 @@ while True:
             }
         ) 
 
-    nextPageToken = pl_response.get('nextPageToken') 
-
-    if not nextPageToken:
-        break 
+    
 ```
 ## Sorting Retrived data
 ```
