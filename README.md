@@ -15,6 +15,6 @@ The above project steps:
  2. Line plot
  3. Standard-Scale plot
 
-## 3. Simple Calculater
+## 3. Simple Calculator
 ![image](https://user-images.githubusercontent.com/111043457/210057213-a4b8e6b7-4093-4201-878b-815081d7c5e6.png)
 
